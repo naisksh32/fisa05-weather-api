@@ -19,7 +19,7 @@ jobs:
 
       - name: OpenWeather API로 서울 날씨 업데이트
         run: |
-          pip install requests
+          pip install requests python-dotenv
           python update_weather.py
         env:
           WEATHER: ${{ secrets.WEATHER }}
