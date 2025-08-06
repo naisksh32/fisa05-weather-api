@@ -4,11 +4,9 @@
 이 리포지토리는 OpenWeather API를 사용하여 서울의 날씨 정보를 자동으로 업데이트합니다.
 
 ## 현재 서울 날씨
-> 서울의 현재 날씨: light rain, 온도: 26.78°C, 습도: 94%
+> 서울의 현재 날씨: mist, 온도: 29.76°C, 습도: 94%
 
-⏳ 업데이트 시간: 2025-08-06 01:16:15 (UTC)
+⏳ 업데이트 시간: 2025-08-06 01:52:57 (UTC)
 
 ---
 자동 업데이트 봇에 의해 관리됩니다.
-
-[![Update Weather in README](https://github.com/naisksh32/fisa05-weather-api/actions/workflows/update_weather.yml/badge.svg)](https://github.com/naisksh32/fisa05-weather-api/actions/workflows/update_weather.yml)
